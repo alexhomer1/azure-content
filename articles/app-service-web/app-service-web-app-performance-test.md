@@ -3,7 +3,7 @@
    description="Run Azure web app performance tests to check how your app handles user load. Measure response time and find failures that might indicate problems."
    services="app-service\web"
    documentationCenter=""
-   authors="ecfan"
+   authors="ahomer"
    manager="douge"
    editor="jimbe"/>
 
@@ -13,8 +13,8 @@
    ms.tgt_pltfrm="na"
    ms.devlang="na"
    ms.topic="article"
-   ms.date="01/13/2016"
-   ms.author="estfan; manasma"/>
+   ms.date="05/10/2016"
+   ms.author="ahomer; manasma"/>
 
 # Performance test your Azure web app under load
 
